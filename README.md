@@ -8,11 +8,11 @@ This project showcases a comprehensive, interactive Power BI dashboard built usi
 
 The **UK Healthcare Dashboard** presents visualizations and KPIs across multiple domains:
 
-- 💰 Billing & Costs
-- 🏥 Treatments & Services
-- 🧾 Insurance & Out-of-Pocket Expenses
-- 🧪 Diagnosis & Procedure Analytics
-- 🗺️ Geographic Distribution of Costs
+- Billing & Costs
+- Treatments & Services
+- Insurance & Out-of-Pocket Expenses
+- Diagnosis & Procedure Analytics
+- Geographic Distribution of Costs
 
 ---
 
