@@ -2,6 +2,8 @@
 
 This project showcases a comprehensive, interactive Power BI dashboard built using the **UK Healthcare dataset**. The dashboard provides deep insights into key healthcare metrics such as billing amounts, treatment costs, medication expenses, insurance coverage, and more — enabling informed, data-driven decision-making for healthcare professionals and administrators.
 
+<img width="668" height="374" alt="374267278-00b03e6a-54ef-4189-b032-8d1da3648b42" src="https://github.com/user-attachments/assets/4389914d-7712-4135-a55c-45b70f4e2a7b" />
+
 ---
 
 ## Dashboard Overview
